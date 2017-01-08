@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by yarbong on 21/04/2016.
+ * Created by lalalaflow on 21/04/2016.
  */
 public class TraderCaller {
     private List<MainTrader> mainTraders;
